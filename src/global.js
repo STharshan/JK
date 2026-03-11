@@ -5,7 +5,7 @@ export const NavbarLogo = {
 
 export const HeroContent = {
   tagline: "FULL SERVICE AND EXCELLENT QUALITY",
-  title: "CAR REMAPS",
+  title: "CAR DETAILING",
 };
 
 export const Services = [
